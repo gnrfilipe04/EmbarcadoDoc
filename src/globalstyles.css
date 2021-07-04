@@ -1,0 +1,28 @@
+<!--THEME-->
+
+:root {
+    --gray50: #F7FAFC,
+    --gray100: #EDF2F7,
+    --gray300: #CBD5E0,
+    --gray800: #1A202C,
+    --green600: #2F855A,
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins';
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
